@@ -6,13 +6,18 @@ header h2{
     text-align: center;
     font-size: 40px;
     padding: 30px;
+    margin: 0;
 }
 
 /* menu */
 nav{
     margin-bottom: 30px;
+    margin: 0;
 }
 
+nav ul {
+    margin: 0;
+}
 nav li{
     float: left;
 }
